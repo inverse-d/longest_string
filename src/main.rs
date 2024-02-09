@@ -23,7 +23,4 @@ fn main() {
 
     let result = compare_strings(first_string, second_string);
     println!("The longest String is: '{}' ", &result);
-
-    
-    
 }
